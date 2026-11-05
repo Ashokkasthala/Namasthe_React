@@ -1,0 +1,32 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Namste React",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/Ashokkasthala/Namasthe_React#readme",
+  "bugs": {
+    "url": "https://github.com/Ashokkasthala/Namasthe_React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashokkasthala/Namasthe_React.git"
+  },
+  "license": "ISC",
+  "author": "Ashok",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
